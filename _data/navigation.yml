@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Research Exprerience"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Additional Exprience"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Certifications"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+   # url: /markdown/
