@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "IBM Certified Associate Developer – Quantum Computation using Qiskit v0.2x"
+excerpt: "IBM Professional Certification for the experience using the Qiskit SDK to create and execute quantum computing programs on IBM Quantum computers and simulators.
+<br/> <br/><img src='/images/Media6.PNG'>"
 collection: portfolio
 ---
+[Verify from Credly](https://www.credly.com/badges/3bd4b49b-2bf9-4d24-a900-a736e2c824d2/public_url) 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+

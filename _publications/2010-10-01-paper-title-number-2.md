@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Target Probabilities with Quantum Circuits"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/target_probab
+venue: 'South Asia Wolfram Virtual Technology Conference'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
+[[Weblink]](https://www.wolfram.com/events/virtual-conference-south-asia/2023/schedule/) [[Presentation]](https://www.bigmarker.com/wolfram-u/south-asia-conference-2023?bmid=3f8fc05963c1&amp;source_from=invitation) [[Code]](https://community.wolfram.com/groups/-/m/t/2913983)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+## Abstract
+We investigate systematic methods to generate a desired probability distribution from a quantum
+circuit functionality. Using Wolfram quantum framework, we created a high-level circuit model which produces a desired probability result that matches the desired random probability generator output. Further, it is run on quantum computers of varying qubits to investigate various type of errors.

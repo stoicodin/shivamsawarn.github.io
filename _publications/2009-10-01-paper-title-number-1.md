@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with  Homodyne Technique"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/laser_linewidth
+venue: 'INTERNATIONAL CONFERENCE ON MATHEMATICAL MODELLING AND EMERGING TRENDS IN COMPUTING'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+## Abstract
+In this work, we investigate the effects of laser linewidth and detector bandwidth on signal behavior using the powerful homodyne technique, which allows us to obtain both amplitude and phase information about a signal. We analyze the impact of these parameters on signal distortion, noise, and phase errors, as well as their impact on the speed of random signal generation. Our Simulation results highlight the importance of carefully selecting laser linewidth and detector bandwidth for optimal signal performance. These findings have practical implications for a wide range of applications, including Quantum random number generation, telecommunications, radar systems, and optical sensing.
