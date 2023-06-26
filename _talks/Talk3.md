@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/summer
 venue: "IBM Qiskit"
-date: 2022-07
+date: 2022-07-01
 location: "Remote"
 ---
 * Attended 4 weeks summer school focused on Quantum simulations.
