@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/bachelors
 venue: "B.Sc Physics"
-location: "Remote"
+location: "Jamia Millia Islamia"
 ---
 * Submitted as a project in Bachelors final semester.
 
