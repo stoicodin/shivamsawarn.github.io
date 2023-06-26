@@ -1,6 +1,7 @@
 ---
 title: "IBM Certified Associate Developer – Quantum Computation using Qiskit v0.2x"
 excerpt: "IBM Professional Certification for the experience using the Qiskit SDK to create and execute quantum computing programs on IBM Quantum computers and simulators.
+<br/> <br/><img src=''>"
 collection: portfolio
 
 <div>
