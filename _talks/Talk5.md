@@ -4,7 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/bachelors
 venue: "B.Sc Physics"
-date: 2021-07-01
 location: "Remote"
 ---
 * Submitted as a project in Bachelors final semester.

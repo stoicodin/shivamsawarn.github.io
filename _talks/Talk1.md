@@ -1,10 +1,9 @@
 ---
 title: "Consultant in Wolfram Quantum Framework Division"
 collection: talks
-type: "Talk"
+type: "Project"
 permalink: /talks/Consultant
 venue: "Wolfram Research, Inc."
-date: 2022-02-14
 location: "Remote"
 ---
 * Work with Wolfram Quantum Framework team who are responsible for creating framework that offers general suite of modelling capabilities for simulating quantum computation, with full integration into Mathematica and Wolfram Language.

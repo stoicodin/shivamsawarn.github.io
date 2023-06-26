@@ -1,7 +1,7 @@
 ---
 title: "Quantum Global Summer School 2022"
 collection: talks
-type: "Talk"
+type: "School"
 permalink: /talks/summer
 venue: "IBM Qiskit"
 date: 2022-07-01

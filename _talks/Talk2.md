@@ -1,10 +1,9 @@
 ---
 title: "Quantum Open systems and master equation implementation through reinforcement learning"
 collection: talks
-type: "Talk"
+type: "Project"
 permalink: /talks/ibmq
 venue: "IBM QAMP Fall'22 & Spring'23"
-date: 2022-08-01
 location: "Remote"
 ---
 * Ongoing project in IBM Spring'23 after concluding [IBM QAMP Fall'22](https://www.credly.com/badges/8791e36e-864c-433a-9278-a5bbbf67316e/public_url) along with 5 collaborators
