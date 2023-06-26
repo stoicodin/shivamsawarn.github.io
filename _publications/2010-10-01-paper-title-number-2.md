@@ -1,13 +1,10 @@
 ---
-title: "Target Probabilities with Quantum Circuits"
+title: "Investigating the Effects of Laser Linewidth and Detector Bandwidth on Signal Behavior with  Homodyne Technique"
 collection: publications
-permalink: /publication/target_probab
-venue: 'South Asia Wolfram Virtual Technology Conference'
+permalink: /publication/laser_linewidth
+venue: 'INTERNATIONAL CONFERENCE ON MATHEMATICAL MODELLING AND EMERGING TRENDS IN COMPUTING'
 
 ---
-[[Weblink]](https://www.wolfram.com/events/virtual-conference-south-asia/2023/schedule/) [[Presentation]](https://www.bigmarker.com/wolfram-u/south-asia-conference-2023?bmid=3f8fc05963c1&amp;source_from=invitation) [[Code]](https://community.wolfram.com/groups/-/m/t/2913983)
-
 ---
 ## Abstract
-We investigate systematic methods to generate a desired probability distribution from a quantum
-circuit functionality. Using Wolfram quantum framework, we created a high-level circuit model which produces a desired probability result that matches the desired random probability generator output. Further, it is run on quantum computers of varying qubits to investigate various type of errors.
+In this work, we investigate the effects of laser linewidth and detector bandwidth on signal behavior using the powerful homodyne technique, which allows us to obtain both amplitude and phase information about a signal. We analyze the impact of these parameters on signal distortion, noise, and phase errors, as well as their impact on the speed of random signal generation. Our Simulation results highlight the importance of carefully selecting laser linewidth and detector bandwidth for optimal signal performance. These findings have practical implications for a wide range of applications, including Quantum random number generation, telecommunications, radar systems, and optical sensing.
