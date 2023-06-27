@@ -2,6 +2,7 @@
 title: "Quantum Open systems and master equation implementation through reinforcement learning"
 collection: talks
 type: "Project"
+date: 2023-07-01
 permalink: /talks/ibmq
 venue: "IBM QAMP Fall'22 & Spring'23"
 location: "Remote"

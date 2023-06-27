@@ -12,5 +12,5 @@ redirect_from:
 * My research interests lie in Quantum Information Theory and Quantum Computing with experimental interest in Quantum Optics...
 * I received my Bachelor’s Degree in Physics at Jamia Millia Islamia. 
 * I'm from Bihar, India and currently live in New Delhi.
-* Please reach me at <a href = "mailto: stoicishiv@hotmail.com">Send Email</a>
+* Please reach me at <a href = "mailto: stoicishiv@hotmail.com">stoicishiv[at]hotmail[dot]com</a>
 * For more details, check out my [CV]()
