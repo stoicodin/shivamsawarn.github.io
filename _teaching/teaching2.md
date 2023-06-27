@@ -1,9 +1,11 @@
 ---
 title: "Mentor"
 collection: teachings
+type: "Qiskit"
 permalink: /teaching/mentor
-venue: "IBM Qiskit"
+venue: "IBM"
 location: "Remote"
+date: 0000-00-00
 ---
 Worked as mentor in different events including:
 * Quantum Global Summer School 2023
