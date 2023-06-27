@@ -5,6 +5,7 @@ type: "Community work"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IBM Qiskit"
 location: "Remote"
+date: 2022-08-01
 ---
 [Verify](https://qiskit.org/advocates/)
 
