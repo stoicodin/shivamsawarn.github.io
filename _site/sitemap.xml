@@ -24,6 +24,9 @@
 <lastmod>2023-10-07T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/talks/bachelors</loc>
+</url>
+<url>
 <loc>http://localhost:4000/talks/Consultant</loc>
 </url>
 <url>
@@ -38,13 +41,12 @@
 <lastmod>2022-07-01T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/talks/bachelors</loc>
-</url>
-<url>
 <loc>http://localhost:4000/teaching/2014-spring-teaching-1</loc>
+<lastmod>2022-08-01T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/mentor</loc>
+<lastmod>2022-08-01T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
