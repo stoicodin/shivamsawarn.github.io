@@ -4,9 +4,9 @@ collection: talks
 type: "Talk"
 permalink: /talks/bachelors
 venue: "B.Sc Physics"
-date: 2021-07-01
+date: 2021-05-01
 location: "Jamia Millia Islamia"
 ---
-* Submitted as a project in Bachelors final semester.
-
-* Worked on Radial probability density and Energy associated with different states of Hydrogen is visualized using Numerov-Cooley method in FORTRAN.
+<i>As part of B.Sc Computational Physics project</i>
+* Simulated the Radial probability density and Energy associated with different states of Hydrogen in FORTRAN.
+* Applied Numerov-Cooley method to visualize and shown comparison of different states .
