@@ -7,6 +7,7 @@ venue: "IBM Qiskit"
 location: "Remote"
 date: 2022-08-01
 ---
+<h>Industrial Experience</h>
 [Verify](https://qiskit.org/advocates/)
 * Recognized for my contributions to the Qiskit and the quantum community, and demonstrating an ability and commitment to educate and influence others bysharing ideas, knowledge and expertise in the field of quantum computing.
 
