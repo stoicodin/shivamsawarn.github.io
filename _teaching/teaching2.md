@@ -1,6 +1,8 @@
 ---
 title: "Mentor"
 collection: teachings
+type: "Teaching"
+venue: "IBM Qiskit & Wolfram Research, Inc."
 permalink: /teaching/mentor
 location: "Remote"
 date: 2022-08-01

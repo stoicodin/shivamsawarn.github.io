@@ -13,3 +13,8 @@ location: "Remote"
 * Create [community post](https://community.wolfram.com/web/shivam185644) regularly on various topics of Quantum Information Theory such as Quantum counterpart of Classical gates, Distance measures for Quantum Information, Interactive Bloch sphere, Quantum State. 
 
 * Responsible for algorithm development, proofreading and checking existing algorithm of the Framework.
+
+<figure>
+  <img src="/images/Exp1.png" alt="Trulli" style="width:80%">
+  <figcaption></figcaption>
+</figure>

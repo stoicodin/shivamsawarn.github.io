@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-* Graduated from Honors Program, Rank 1
-* Ranked under top 12% in Joint Admission test for Masters out of total 14298 candidates.
-* Cleared several IBM Quantum Challenges:
+* Graduated from Bachelors (Hons.) Physics Program(<i>2018 batch</i>), <b>Rank 1</b> in Jamia Millia Islamia.
+* Ranked under <b>top 12%</b> in Joint Admission test for Masters out of total 14298 candidates.
+* Cleared several <b>IBM Quantum Challenges:</b>
   * Spring 2023<br>
     Got the badge for demonstrating  an understanding of how to create circuits that perform measurements mid-circuit and dynamically decide what the next steps should be and implementing dynamic circuits in the context of iterative phase estimation, quantum teleportation, and error correction.
 
@@ -30,4 +30,3 @@ redirect_from:
 
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cf65ffdb-0e30-4530-93ff-2660bb9f3d8b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-* Topped Secondary and Senior secondary school
