@@ -1,15 +1,14 @@
 ---
 title: "Mentor"
 collection: teachings
-type: "Teaching Experience"
 permalink: /teaching/mentor
 location: "Remote"
 date: 2022-08-01
 ---
 
-<h>Mentor</h>
 * IBM Qiskit
-    * Quantum Global Summer School 2023 – IBM Quantum Challange Spring’23
+    * Quantum Global Summer School 2023 
+    * IBM Quantum Challange Spring’23
     * IBM Quantum Challange Fall’22
 
 * [Wolfram Summer School 2023](https://education.wolfram.com/summer-school/faculty/2023/#shivam-sawarn)
