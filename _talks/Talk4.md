@@ -23,6 +23,3 @@ location: "Ahmedabad"
   <figcaption>Graphs showing the relationship between Distance (in km) and (a) Error rate (in %), (b) Throughput (in MHz), and (c) Latency (in sec) for a long distance range of 50 m to 2 km</figcaption>
 </figure>
 
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8791e36e-864c-433a-9278-a5bbbf67316e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

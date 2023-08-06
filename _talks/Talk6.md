@@ -2,7 +2,7 @@
 title: "Consultant in Wolfram Quantum Framework Division"
 collection: talks
 type: "Project"
-date: 2024-05-14
+date: 2023-11-14
 permalink: /talks/Consultant
 venue: "Wolfram Research, Inc."
 location: "Remote"
