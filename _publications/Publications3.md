@@ -1,13 +1,11 @@
 ---
-title: "Optimising Quantum Error Correction with Mach-Zehnder Inter-
-ferometer"
+title: "Optimising Quantum Error Correction with Mach-Zehnder Interferometer"
 collection: publications
 permalink: /publication/qec
 venue: 'Internation Journal of Quantum Information'
-date: 2023-10-07
+date: 2023-10-05
 
 ---
-<br>
 <i>In preparation:</i> Ram Soorat, <b>Shivam Sawarn</b>, Akhilesh Dubey, Priyanka, Shaik Ahmed, D Sanjeev, Optimising Quantum Error Correction with Mach-Zehnder Interferometer
 
 ## Abstract
