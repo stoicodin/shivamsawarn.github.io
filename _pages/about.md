@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 * I am a M.Sc. student in the Physics department at the University of Delhi.
-* My research interests lie in Quantum Information Theory and Quantum Computing with experimental interest in Quantum Optics...
+* My research interests lie in Quantum Information Theory and Quantum Computing with experimental interest in Quantum Key Distribution...
 * I received my Bachelor’s Degree in Physics at Jamia Millia Islamia. 
 * I'm from Bihar, India and currently live in New Delhi.
 * Please reach me at <a href = "mailto: stoicishiv@hotmail.com">stoicishiv[at]hotmail[dot]com</a>
-* For more details, check out my [CV](https://stoicodin.github.io/files/resume_08_08.pdf)
+* For more details, check out my [CV](https://stoicodin.github.io/files/resume_28_08.pdf)
