@@ -8,11 +8,6 @@ location: "Remote"
 date: 2022-08-01
 ---
 
-* IBM Qiskit
-    * Quantum Global Summer School 2023 
-    * IBM Quantum Challange Spring’23
-    * IBM Quantum Challange Fall’22
-
 * [Wolfram Summer School 2023](https://education.wolfram.com/summer-school/faculty/2023/#shivam-sawarn)
     * Responsible to guide four students from Physics track and assisting them in
     creating an original project.
@@ -28,3 +23,8 @@ date: 2022-08-01
 <h> Teaching Assistant</h>
 * [Wolfram Summer School 2022](https://education.wolfram.com/summer-school/faculty/2022/#shivam-sawarn)
     * Aided 20+ students in coding for projects proposed during the school.
+
+* IBM Qiskit
+    * Quantum Global Summer School 2023 
+    * IBM Quantum Challange Spring’23
+    * IBM Quantum Challange Fall’22

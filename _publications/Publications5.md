@@ -9,7 +9,7 @@ date: 2023-10-07
 [[Link]](https://qworld.net/qintern-2023/)
 <br>
 
-<i>In preparation:</i>Walid El Maouaki, <b>Shivam Sawarn</b>, Aarav Ratra, Muhammad Shuraim, Huma Sabir,Vishal Khan,
+* <i>In preparation:</i>Walid El Maouaki, <b>Shivam Sawarn</b>, Aarav Ratra, Muhammad Shuraim, Huma Sabir,Vishal Khan,
 Qutrit-based quantum algorithms: exploring the potential of three state quantum systems, <b>QIntern 2023, QWorld</b>
 
 * [Won third prize team award for the best presentation.](https://stoicodin.github.io/files/QIntern2023-152.pdf
