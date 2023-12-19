@@ -13,4 +13,4 @@ redirect_from:
 * I received my Bachelor’s Degree in Physics at Jamia Millia Islamia. 
 * I'm from Bihar, India and currently live in New Delhi.
 * Please reach me at <a href = "mailto: stoicishiv@hotmail.com">stoicishiv[at]hotmail[dot]com</a>
-* For more details, check out my [CV](https://stoicodin.github.io/files/resume_07_12.pdf)
+* For more details, check out my [CV](https://stoicodin.github.io/files/resume_19_12.pdf)

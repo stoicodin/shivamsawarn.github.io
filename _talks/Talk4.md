@@ -2,7 +2,7 @@
 title: "Research intern"
 collection: talks
 type: "Project"
-date: 2023-12-30
+date: 2024-03-31
 permalink: /talks/prl
 venue: "Physical Research Laboratory, Department of Space, India"
 location: "Ahmedabad"

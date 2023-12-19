@@ -9,7 +9,7 @@ redirect_from:
 
 * Graduated from Bachelors (Hons.) Physics Program(<i>2018 batch</i>), <b>Rank 1</b> in Jamia Millia Islamia.
 * Ranked under <b>top 12%</b> in Joint Admission test for Masters out of total 14298 candidates.
-* Ranked 18th among 375 students in Masters(2021 batch) in Delhi University.
+* Ranked 18th(top 5%) among 375 students in Masters(2021 batch) in Delhi University.
 * Cleared several <b>IBM Quantum Challenges:</b>
   * Spring 2023<br>
     Got the badge for demonstrating  an understanding of how to create circuits that perform measurements mid-circuit and dynamically decide what the next steps should be and implementing dynamic circuits in the context of iterative phase estimation, quantum teleportation, and error correction.
